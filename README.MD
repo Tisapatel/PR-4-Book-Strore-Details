@@ -13,7 +13,7 @@ Easily **add, view, update, and delete** books with a clean and organized MVC st
 ---
 
 ## 🌐 Live Demo
-🔗 [View Live Demo](#) *(Coming Soon)*
+🔗 [View Live Demo](#) *(https://pr-4-book-strore-details.onrender.com/)*
 
 ---
 
