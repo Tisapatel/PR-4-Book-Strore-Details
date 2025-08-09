@@ -28,19 +28,6 @@ Easily **add, view, update, and delete** books with a clean and organized MVC st
 
 ---
 
-## 🖼 Screenshots
-
-| Home Page | Add Book Page |
-|-----------|---------------|
-| ![Home](Screenshot 2025-08-10 003014.png) | ![Add Book](Screenshot 2025-08-10 003040.png) |
-
-| Book List Page | Book Edit Page |
-|----------------|------------------|
-| ![Book List](Screenshots\Screenshot 2025-08-10 003106.png) | ![Update Book](c:\Users\trpat\OneDrive\Pictures\Screenshots\Screenshot 2025-08-10 003209.png) |
-
-
----
-
 ## 📂 Folder Structure
 ```
 PR-4-Book Strore Details/
